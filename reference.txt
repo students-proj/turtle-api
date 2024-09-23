@@ -1,0 +1,5 @@
+https://tedboy.github.io/python_stdlib/generated/turtle.html
+
+https://realpython.com/beginners-guide-python-turtle/
+
+https://www.geeksforgeeks.org/turtle-programming-python/
